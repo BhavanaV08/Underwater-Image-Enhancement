@@ -1,0 +1,11 @@
+removed_feature,kept_feature,correlation
+ASM,energy,0.9832725534037368
+variance,std,0.9916801358546146
+rms_contrast,std,1.0
+gradient,edge_density,0.931529748949544
+mean_value,mean_blue,0.9158517431671996
+mean,mean_green,0.9620426031639695
+glcm_entropy,entropy,0.9572019103716815
+glcm_variance,energy,0.9832563896448471
+dissimilarity,laplacian_variance,0.9149546793106017
+contrast,laplacian_variance,0.9857810312523502

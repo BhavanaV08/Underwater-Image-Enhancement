@@ -1,0 +1,16 @@
+rank_after_redundancy_removal,selected_feature
+1,edge_density
+2,energy
+3,std
+4,red_ratio
+5,entropy
+6,mean_blue
+7,keypoint_density
+8,mean_green
+9,mean_red
+10,dynamic_range
+11,mean_saturation
+12,laplacian_variance
+13,colorfulness
+14,correlation
+15,homogeneity
