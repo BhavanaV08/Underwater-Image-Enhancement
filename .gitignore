@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# TensorFlow / model files
+*.keras
+*.h5
+*.hdf5
+*.pkl
+
+# Large datasets
+dataset/raw-890/
+dataset/reference-890/
+dataset/RUIE/
+
+# Generated preprocessed images
+dataset/preprocessed/
+
+# Generated results
+cnn_results/
+enhancement_results/
+feature_ranking_results/
+
+# Python cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
